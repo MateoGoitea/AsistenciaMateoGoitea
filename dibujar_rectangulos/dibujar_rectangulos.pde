@@ -1,3 +1,6 @@
+PVector coordenadasRect;
+int ancho, alto, distEntreRect;
+
 public void setup(){
   size (440, 420);
   distEntreRect=20;
