@@ -10,6 +10,7 @@ public void setup(){
 }
 
 public void draw(){
+  fill(#36FF61);
   dibujarRectangulos();
 }
 
